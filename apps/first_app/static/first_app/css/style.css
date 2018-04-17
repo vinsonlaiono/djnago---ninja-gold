@@ -1,0 +1,49 @@
+.wrapper{
+    height: 545px;
+    width: 950px;
+    margin: auto;
+    background-color: #c9bdbd;
+    border: 2px solid #7d1010;
+    font-family: 'Roboto',arial,sans-serif;
+}
+.building{
+    text-align: center;
+    border: 1px solid;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 16px;
+    box-shadow: 2px 2px;
+    border-radius: 5px;
+}
+h4{
+    margin: 14px;
+}
+h2{
+    display: inline-block;
+    margin: 15px;
+}
+.activities{
+    height: 150px;
+    width: 916px;
+    border: 1px solid;
+    margin: 14px;
+    background-color: #e8e9ea;
+    overflow: scroll;
+    /* padding: 10px; */
+    box-shadow: 2px 2px;
+    border-radius: 5px;
+}
+input{
+    box-shadow: 2px 2px;
+    border-radius: 5px;
+}
+.reset{
+    margin-left: 400px;
+}
+.red{
+    color: red;
+}
+.gold{
+    color: gold;
+}
